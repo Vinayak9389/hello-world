@@ -1,2 +1,3 @@
 # hello-world
-REPOSITORY
+
+Just a noob trying to learn coding and stuff.
